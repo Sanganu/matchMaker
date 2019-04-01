@@ -2,8 +2,7 @@
 Developed by : Sangeetha
 
 Week 13: Friend Finder application published on heroku
-URL : https://whispering-reef-95336.herokuapp.com/
-
+URL : 
 The FriendFinder application using MySQL, Express
 
 Application: Finds the perfect friend. The User Answers Survey questions on the scale of 1-5 with 1 beign 'Hate it' and 5 being 'Love it'. The Application finds the friend with closet match.The user answers the questions. Based on it the best match is displayed.
